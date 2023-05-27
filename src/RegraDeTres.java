@@ -19,7 +19,7 @@ public class RegraDeTres {
 		valor = (x * y) / 100;
 		// saida
 		System.out.println(x + "% de " + y + " = " + formatador.format(valor));
-		System.out.println("Atualização");
+		System.out.println("Atualização regra de três");
 		teclado.close();
 
 	}
