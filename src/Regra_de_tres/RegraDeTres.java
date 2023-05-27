@@ -1,3 +1,5 @@
+package Regra_de_tres;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

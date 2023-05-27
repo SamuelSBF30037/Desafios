@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "conversor_temperatura",
+            "request": "launch",
+            "mainClass": "Conversor_Temperarura.conversor_temperatura",
+            "projectName": "Desafios_251e91cd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Pessoas_Fisicas",
+            "request": "launch",
+            "mainClass": "BancoSBF.Contas.Pessoas_Fisicas",
+            "projectName": "Desafios_251e91cd"
+        },
+        {
+            "type": "java",
+            "name": "Seguro_pessoa_Fisica",
+            "request": "launch",
+            "mainClass": "BancoSBF.Seguros_Pessoas_Fisicas.Seguro_pessoa_Fisica",
+            "projectName": "Desafios_251e91cd"
+        },
+        {
+            "type": "java",
+            "name": "RegraDeTres",
+            "request": "launch",
+            "mainClass": "Regra_de_tres.RegraDeTres",
+            "projectName": "Desafios_251e91cd"
+        },
+        {
+            "type": "java",
+            "name": "TiposDeTriangulos",
+            "request": "launch",
+            "mainClass": "Triangulos.TiposDeTriangulos",
+            "projectName": "Desafios_251e91cd"
+        }
+    ]
+}
