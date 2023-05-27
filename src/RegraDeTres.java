@@ -2,7 +2,6 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class RegraDeTres {
-
 	public static void main(String[] args) {
 		// variaveis
 		double x, y, valor;
