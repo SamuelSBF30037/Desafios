@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeguroPessoaFisica",
+            "request": "launch",
+            "mainClass": "BancoSBF.SegurosPessoasFisicas.SeguroPessoaFisica",
+            "projectName": "desafios_java_fff2b974"
+        },
+        {
+            "type": "java",
+            "name": "Seguro_pessoa_Fisica",
+            "request": "launch",
+            "mainClass": "BancoSBF.SegurosPessoasFisicas.Seguro_pessoa_Fisica",
+            "projectName": "desafios_java_fff2b974"
+        },
+        {
+            "type": "java",
+            "name": "PessoasFisicas",
+            "request": "launch",
+            "mainClass": "BancoSBF.Contas.PessoasFisicas",
+            "projectName": "desafios_java_fff2b974"
+        },
+        {
+            "type": "java",
+            "name": "Pessoas_Fisicas",
+            "request": "launch",
+            "mainClass": "BancoSBF.Contas.Pessoas_Fisicas",
+            "projectName": "desafios_java_fff2b974"
+        },
+        {
+            "type": "java",
             "name": "conversor_temperatura",
             "request": "launch",
             "mainClass": "Conversor_Temperarura.conversor_temperatura",

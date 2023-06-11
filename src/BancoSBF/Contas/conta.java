@@ -1,8 +1,9 @@
 package BancoSBF.Contas;
 
-public class conta {
+public class Conta {
 
     private String cliente;
+
 
     public String getCliente() {
         return cliente;
@@ -38,7 +39,7 @@ public class conta {
         saldo += valor;
         System.out.println("Credito: R$" + valor);
     }
-    void transferir(conta destino, double valor) {
+    void transferir(Conta destino, double valor) {
 			this.sacar(valor);
 			destino.depositar(valor);
 			System.out.println("Transferir: R$" + valor);
