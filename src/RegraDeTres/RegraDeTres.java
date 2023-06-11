@@ -1,4 +1,4 @@
-package Regra_de_tres;
+package RegraDeTres;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

@@ -1,9 +1,9 @@
-package Conversor_Temperarura;
+package ConversorTemperarura;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class conversor_temperatura {
+public class ConversorTemperatura {
 
 	public static void main(String[] args) {
 		//variaveis

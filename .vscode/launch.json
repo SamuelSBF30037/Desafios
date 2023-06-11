@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RegraDeTres",
+            "request": "launch",
+            "mainClass": "RegraDeTres.RegraDeTres",
+            "projectName": "desafios_java_fff2b974"
+        },
+        {
+            "type": "java",
+            "name": "ConversorTemperatura",
+            "request": "launch",
+            "mainClass": "ConversorTemperarura.ConversorTemperatura",
+            "projectName": "desafios_java_fff2b974"
+        },
+        {
+            "type": "java",
             "name": "SeguroPessoaFisica",
             "request": "launch",
             "mainClass": "BancoSBF.SegurosPessoasFisicas.SeguroPessoaFisica",
